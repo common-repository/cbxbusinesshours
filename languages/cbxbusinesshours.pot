@@ -1,0 +1,838 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CBX Office Opening & Business Hours\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-26 11:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.1.1"
+
+#. %s template
+#: includes/cbxbusinesshours-tpl-loader.php:75
+#, php-format
+msgid "%s does not exist."
+msgstr ""
+
+#: templates/metabox_business_hours.php:182
+msgid ""
+"(Format: yy-mm-dd). If today select, custom date is not empty , custom date "
+"value will be used"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:411
+msgid ""
+"(Format: yyyy-mm-dd). If today select, custom date is not empty , custom "
+"date value will be used"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:383
+#: templates/metabox_business_hours.php:118
+msgid "12 Hour"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:560
+#: widgets/classic_widgets/class-cbxbusinesshour-front-widget.php:152
+#: widgets/dashboard_widgets/class-cbxbusinesshour-dashboard-widget.php:173
+#: widgets/elementor-elements/class-cbxbusinesshours-elementor.php:145
+#: widgets/vc-element/class-cbxbusinesshours-wpbwidget.php:81
+msgid "12 hours"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:382
+#: templates/metabox_business_hours.php:117
+msgid "24 Hour"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:559
+#: widgets/classic_widgets/class-cbxbusinesshour-front-widget.php:151
+#: widgets/dashboard_widgets/class-cbxbusinesshour-dashboard-widget.php:172
+#: widgets/elementor-elements/class-cbxbusinesshours-elementor.php:144
+#: widgets/vc-element/class-cbxbusinesshours-wpbwidget.php:80
+msgid "24 hours"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:875
+#, php-format
+msgid ""
+"<a target=\"_blank\" href=\"%s\">CBX Office Opening & Business Hours Pro "
+"Addon</a> has some extra features, custom store with per store business "
+"hours setting - Codeboxr Team"
+msgstr ""
+
+#: templates/admin/dashboard.php:148
+msgid "Access our Premium Support"
+msgstr ""
+
+#: templates/metabox_business_hours.php:334
+msgid "Add New"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:478
+msgid "After Content"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:584
+#: widgets/elementor-elements/class-cbxbusinesshours-elementor.php:220
+#: widgets/vc-element/class-cbxbusinesshours-wpbwidget.php:140
+msgid "After Text"
+msgstr ""
+
+#: widgets/classic_widgets/class-cbxbusinesshour-front-widget.php:226
+msgid "After Text:"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:472
+msgid "Auto Integration"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:484
+msgid "Auto Integration Post Type(s)"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:477
+msgid "Before Content"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:583
+#: widgets/elementor-elements/class-cbxbusinesshours-elementor.php:210
+#: widgets/vc-element/class-cbxbusinesshours-wpbwidget.php:132
+msgid "Before Text"
+msgstr ""
+
+#: widgets/classic_widgets/class-cbxbusinesshour-front-widget.php:220
+msgid "Before Text:"
+msgstr ""
+
+#: includes/class-cbxbusinesshours-helper.php:64
+msgid "Built in post types"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:947
+msgid "Business Hours Meta box"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:596
+#: includes/cbxbusinesshours-functions.php:25
+#: public/class-cbxbusinesshours-public.php:118
+#: widgets/classic_widgets/class-cbxbusinesshour-front-widget.php:70
+#: widgets/classic_widgets/class-cbxbusinesshour-front-widget.php:246
+#: widgets/elementor-elements/class-cbxbusinesshours-elementor.php:92
+#: widgets/vc-element/class-cbxbusinesshours-wpbwidget.php:37
+msgid "Business Opening Hours"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:708
+msgid "CBX Blocks"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:538
+#: widgets/elementor-elements/class-cbxbusinesshours-elementor.php:38
+msgid "CBX Business Hours"
+msgstr ""
+
+#: widgets/classic_widgets/class-cbxbusinesshour-front-widget.php:17
+#: widgets/elementor-elements/class-cbxbusinesshours-elementor.php:83
+#: widgets/vc-element/class-cbxbusinesshours-wpbwidget.php:25
+msgid "CBX Business Opening Hours"
+msgstr ""
+
+#: widgets/classic_widgets/class-cbxbusinesshour-front-widget.php:20
+#: widgets/vc-element/class-cbxbusinesshours-wpbwidget.php:26
+msgid "CBX business opening hours display widget"
+msgstr ""
+
+#. Name of the plugin
+#: widgets/dashboard_widgets/class-cbxbusinesshour-dashboard-widget.php:37
+msgid "CBX Office Opening & Business Hours"
+msgstr ""
+
+#: templates/admin/dashboard.php:18
+msgid "CBX Office Opening & Business Hours - Helps & Updates"
+msgstr ""
+
+#: templates/admin/settings-display.php:24
+msgid "CBX Office Opening & Business Hours - Settings"
+msgstr ""
+
+#: templates/admin/dashboard.php:168
+msgid "CBX Office Opening & Business Hours Plugin Information"
+msgstr ""
+
+#: templates/admin/setting.php:20
+msgid "CBX Office Opening & Business Hours: Global Setting"
+msgstr ""
+
+#: widgets/vc-element/class-cbxbusinesshours-wpbwidget.php:29
+msgid "CBX Widgets"
+msgstr ""
+
+#: templates/admin/dashboard.php:195
+msgid "Changelog"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:929
+#, php-format
+msgid ""
+"Check how to <a style=\"color:#6648fe !important; font-weight: bold;\" "
+"href=\"%s\"><strong>Update manually</strong></a> , download latest version "
+"from <a style=\"color:#6648fe !important; font-weight: bold;\" href=\"%s\">"
+"<strong>My Account</strong></a> section of Codeboxr.com"
+msgstr ""
+
+#: includes/class-cbxbusinesshours-settings.php:522
+msgid "Choose File"
+msgstr ""
+
+#: includes/class-cbxbusinesshours-settings.php:726
+#: templates/metabox_business_hours.php:349
+msgid "Click to copy shortcode"
+msgstr ""
+
+#: includes/class-cbxbusinesshours-helper.php:705
+#: includes/class-cbxbusinesshours-helper.php:832
+msgid "Closed"
+msgstr ""
+
+#. Author of the plugin
+msgid "Codeboxr"
+msgstr ""
+
+#: templates/admin/dashboard.php:233 templates/admin/sidebar.php:57
+msgid "Codeboxr News Updates"
+msgstr ""
+
+#: public/class-cbxbusinesshours-public.php:179
+msgid "Codeboxr Widgets"
+msgstr ""
+
+#: templates/admin/dashboard.php:82
+msgid "Coming Soon ..."
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:373
+#: admin/class-cbxbusinesshours-admin.php:555
+#: templates/metabox_business_hours.php:97
+#: widgets/classic_widgets/class-cbxbusinesshour-front-widget.php:135
+#: widgets/dashboard_widgets/class-cbxbusinesshour-dashboard-widget.php:157
+#: widgets/elementor-elements/class-cbxbusinesshours-elementor.php:131
+#: widgets/vc-element/class-cbxbusinesshours-wpbwidget.php:69
+msgid "Compact Table"
+msgstr ""
+
+#: includes/class-cbxbusinesshours-settings.php:606
+#: templates/metabox_business_hours.php:264
+msgid "Copy to All"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:402
+#: admin/class-cbxbusinesshours-admin.php:569
+#: templates/metabox_business_hours.php:162
+#: widgets/classic_widgets/class-cbxbusinesshour-front-widget.php:187
+#: widgets/dashboard_widgets/class-cbxbusinesshour-dashboard-widget.php:204
+#: widgets/elementor-elements/class-cbxbusinesshours-elementor.php:172
+#: widgets/vc-element/class-cbxbusinesshours-wpbwidget.php:104
+msgid "Current Week(7 days)"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:410
+msgid "Custom Date"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:572
+#: widgets/elementor-elements/class-cbxbusinesshours-elementor.php:182
+#: widgets/vc-element/class-cbxbusinesshours-wpbwidget.php:113
+msgid "Custom Date(Format: yyyy-mm-dd)"
+msgstr ""
+
+#: widgets/classic_widgets/class-cbxbusinesshour-front-widget.php:199
+#: widgets/dashboard_widgets/class-cbxbusinesshour-dashboard-widget.php:215
+msgid "Custom Date:"
+msgstr ""
+
+#: includes/class-cbxbusinesshours-settings.php:608
+#: templates/metabox_business_hours.php:267
+msgid "Custom information"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:194
+#: admin/class-cbxbusinesshours-admin.php:255
+#: includes/class-cbxbusinesshours-settings.php:646
+#: templates/metabox_business_hours.php:302
+msgid "Date"
+msgstr ""
+
+#: widgets/classic_widgets/class-cbxbusinesshour-front-widget.php:205
+#: widgets/dashboard_widgets/class-cbxbusinesshour-dashboard-widget.php:220
+#, php-format
+msgid "Date format: %s"
+msgstr ""
+
+#: widgets/vc-element/class-cbxbusinesshours-wpbwidget.php:116
+msgid "Date format: yyyy-mm-dd"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:389
+#: admin/class-cbxbusinesshours-admin.php:562
+#: widgets/elementor-elements/class-cbxbusinesshours-elementor.php:154
+#: widgets/vc-element/class-cbxbusinesshours-wpbwidget.php:89
+msgid "Day Name Format"
+msgstr ""
+
+#: widgets/classic_widgets/class-cbxbusinesshour-front-widget.php:164
+#: widgets/dashboard_widgets/class-cbxbusinesshour-dashboard-widget.php:184
+msgid "Day Name Format:"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:369
+msgid "Default Display Mode"
+msgstr ""
+
+#: templates/metabox_business_hours.php:351
+msgid "Demo"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:436
+msgid "Disable"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:479
+msgid "Disable Auto Integration"
+msgstr ""
+
+#: widgets/elementor-elements/class-cbxbusinesshours-elementor.php:126
+#: widgets/vc-element/class-cbxbusinesshours-wpbwidget.php:65
+msgid "Display Mode"
+msgstr ""
+
+#: widgets/classic_widgets/class-cbxbusinesshour-front-widget.php:128
+#: widgets/dashboard_widgets/class-cbxbusinesshour-dashboard-widget.php:151
+msgid "Display Mode:"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:473
+msgid ""
+"Displays the business hours before or after a post content. Works for any "
+"post types detailed/single view."
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:778
+msgid "Documentation"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:435
+msgid "Enable"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:432
+msgid "Enable Dashboard Widget"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:196
+#: admin/class-cbxbusinesshours-admin.php:257
+#: includes/class-cbxbusinesshours-settings.php:652
+#: templates/metabox_business_hours.php:312
+msgid "End"
+msgstr ""
+
+#: includes/class-cbxbusinesshours-settings.php:602
+#: templates/metabox_business_hours.php:259
+msgid "Ending Time"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:360
+msgid "Exception Days / Holiday"
+msgstr ""
+
+#: includes/class-cbxbusinesshours-settings.php:639
+#: templates/metabox_business_hours.php:293
+msgid "Exception Days / Holiday(Time in 24 hour format)"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:828
+#: admin/class-cbxbusinesshours-admin.php:843
+#, php-format
+msgid ""
+"Explore <a href=\"%s\" target=\"_blank\">Plugin Setting</a> | <a href=\"%s\" "
+"target=\"_blank\">Documentation</a>"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:775
+#: admin/class-cbxbusinesshours-admin.php:776
+msgid "Free Support"
+msgstr ""
+
+#: includes/class-cbxbusinesshours-helper.php:348
+msgid "Fri"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:425
+#: includes/class-cbxbusinesshours-helper.php:347
+msgid "Friday"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:542
+msgid "General Setting"
+msgstr ""
+
+#: templates/admin/dashboard.php:34
+msgid "Get Free & Pro Addons"
+msgstr ""
+
+#: templates/admin/dashboard.php:22
+msgid "Go to Settings"
+msgstr ""
+
+#: includes/class-cbxbusinesshours-helper.php:244
+#: includes/class-cbxbusinesshours-helper.php:259
+msgid "Guest"
+msgstr ""
+
+#: templates/admin/dashboard.php:136 templates/admin/sidebar.php:9
+msgid "Help & Supports"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:547
+#: widgets/elementor-elements/class-cbxbusinesshours-elementor.php:111
+#: widgets/vc-element/class-cbxbusinesshours-wpbwidget.php:52
+msgid "Honor Post Meta"
+msgstr ""
+
+#: widgets/classic_widgets/class-cbxbusinesshour-front-widget.php:107
+msgid "Honor Post Meta:"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://codeboxr.com"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://codeboxr.com/product/cbx-office-opening-business-hours-for-wordpress/"
+msgstr ""
+
+#: templates/metabox_business_hours.php:221
+msgid "If not empty this text will be shown after business hours information."
+msgstr ""
+
+#: templates/metabox_business_hours.php:211
+msgid "If not empty this text will be shown before business hours information."
+msgstr ""
+
+#: templates/metabox_business_hours.php:81
+msgid "If not empty this title will be used for shortcode/widget title param"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:548
+#: widgets/classic_widgets/class-cbxbusinesshour-front-widget.php:124
+#: widgets/elementor-elements/class-cbxbusinesshours-elementor.php:119
+#: widgets/vc-element/class-cbxbusinesshours-wpbwidget.php:53
+msgid ""
+"If post id greater than 0 or valid, then other widget params ignored and "
+"post meta values are used. So, choose no will help to display custom as "
+"widget settings."
+msgstr ""
+
+#: includes/class-cbxbusinesshours-helper.php:649
+msgid "Invalid Date"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:564
+#: widgets/classic_widgets/class-cbxbusinesshour-front-widget.php:169
+#: widgets/dashboard_widgets/class-cbxbusinesshour-dashboard-widget.php:188
+#: widgets/elementor-elements/class-cbxbusinesshours-elementor.php:158
+#: widgets/vc-element/class-cbxbusinesshours-wpbwidget.php:92
+msgid "Long"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:392
+#: templates/metabox_business_hours.php:138
+msgid "Long Name(Example: Sunday)"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:325
+msgid "Manage Hours"
+msgstr ""
+
+#: includes/class-cbxbusinesshours-helper.php:332
+msgid "Mon"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:421
+#: includes/class-cbxbusinesshours-helper.php:331
+msgid "Monday"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:551
+#: widgets/classic_widgets/class-cbxbusinesshour-front-widget.php:114
+#: widgets/elementor-elements/class-cbxbusinesshours-elementor.php:116
+#: widgets/vc-element/class-cbxbusinesshours-wpbwidget.php:57
+msgid "No"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:289
+msgid "Office Business Hours"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:288
+msgid "Office Opening & Business Hours"
+msgstr ""
+
+#. Description of the plugin
+msgid "Office opening and close time or business hours display"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:201
+#: admin/class-cbxbusinesshours-admin.php:260
+msgid "Oops, unable to copy"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:399
+#: admin/class-cbxbusinesshours-admin.php:567
+#: widgets/elementor-elements/class-cbxbusinesshours-elementor.php:168
+#: widgets/vc-element/class-cbxbusinesshours-wpbwidget.php:101
+msgid "Opening Days Display"
+msgstr ""
+
+#: widgets/classic_widgets/class-cbxbusinesshour-front-widget.php:182
+#: widgets/dashboard_widgets/class-cbxbusinesshour-dashboard-widget.php:200
+msgid "Opening Days Display:"
+msgstr ""
+
+#: includes/class-cbxbusinesshours-settings.php:600
+#: templates/metabox_business_hours.php:256
+msgid "Opening Time"
+msgstr ""
+
+#: templates/admin/dashboard.php:90 templates/admin/sidebar.php:21
+msgid "Other WordPress Plugins"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:372
+#: admin/class-cbxbusinesshours-admin.php:554
+#: templates/metabox_business_hours.php:96
+#: widgets/classic_widgets/class-cbxbusinesshour-front-widget.php:134
+#: widgets/dashboard_widgets/class-cbxbusinesshour-dashboard-widget.php:156
+#: widgets/elementor-elements/class-cbxbusinesshours-elementor.php:130
+#: widgets/vc-element/class-cbxbusinesshours-wpbwidget.php:68
+msgid "Plain Table"
+msgstr ""
+
+#: templates/metabox_business_hours.php:354
+msgid "Please save or create the store first to check demo and shortcode"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:202
+#: includes/class-cbxbusinesshours-settings.php:413
+msgid "Please Select"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:544
+#: widgets/elementor-elements/class-cbxbusinesshours-elementor.php:100
+#: widgets/vc-element/class-cbxbusinesshours-wpbwidget.php:43
+msgid "Post ID"
+msgstr ""
+
+#: widgets/classic_widgets/class-cbxbusinesshour-front-widget.php:98
+msgid "Post ID:"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:333
+msgid "Post Type Integration"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:463
+msgid "Post Type(s) Selection"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:782
+msgid "Pro Support"
+msgstr ""
+
+#: templates/admin/dashboard.php:159
+msgid "Quick Support (Email)"
+msgstr ""
+
+#: templates/admin/dashboard.php:186
+msgid "Rate Our Plugin"
+msgstr ""
+
+#: templates/admin/dashboard.php:178
+msgid "Read the CBX Office Opening & Business Hours User Guide"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:193
+#: admin/class-cbxbusinesshours-admin.php:254
+#: includes/class-cbxbusinesshours-settings.php:659
+#: templates/metabox_business_hours.php:322
+msgid "Remove"
+msgstr ""
+
+#: includes/class-cbxbusinesshours-settings.php:672
+#: templates/metabox_business_hours.php:335
+msgid "Remove All Exception"
+msgstr ""
+
+#: includes/class-cbxbusinesshours-settings.php:604
+#: templates/metabox_business_hours.php:262
+msgid "Reset Day"
+msgstr ""
+
+#: includes/class-cbxbusinesshours-settings.php:615
+#: templates/metabox_business_hours.php:274
+msgid "Reset(Empty) All Days"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:777
+msgid "Reviews"
+msgstr ""
+
+#: includes/class-cbxbusinesshours-helper.php:352
+msgid "Sat"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:426
+#: includes/class-cbxbusinesshours-helper.php:351
+msgid "Saturday"
+msgstr ""
+
+#: includes/class-cbxbusinesshours-settings.php:892
+#: templates/admin/settings-display.php:30
+msgid "Save Settings"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:464
+msgid "Select post type integration for business hours as meta box"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:485
+msgid "Select post type integration."
+msgstr ""
+
+#: templates/metabox_business_hours.php:63
+msgid "Setting"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:321
+#: admin/class-cbxbusinesshours-admin.php:750
+#: templates/metabox_business_hours.php:71
+#: templates/admin/settings-display.php:46
+msgid "Settings"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:565
+#: widgets/classic_widgets/class-cbxbusinesshour-front-widget.php:170
+#: widgets/dashboard_widgets/class-cbxbusinesshour-dashboard-widget.php:189
+#: widgets/elementor-elements/class-cbxbusinesshours-elementor.php:159
+#: widgets/vc-element/class-cbxbusinesshours-wpbwidget.php:93
+msgid "Short"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:393
+#: templates/metabox_business_hours.php:140
+msgid "Short Name(Example: Sun)"
+msgstr ""
+
+#: templates/metabox_business_hours.php:344
+msgid "Shortcode"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:329
+#: admin/class-cbxbusinesshours-admin.php:452
+#: templates/metabox_business_hours.php:65
+msgid "Shortcode & Demo"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:453
+msgid ""
+"Shortcode and demo based on default setting, please save once to check "
+"change."
+msgstr ""
+
+#: templates/metabox_business_hours.php:350
+msgid "Shortcode and demo based on post setting"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:200
+#: admin/class-cbxbusinesshours-admin.php:259
+msgid "Shortcode copied to clipboard"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:443
+msgid "Show Dashboard Widget for user role"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:195
+#: admin/class-cbxbusinesshours-admin.php:256
+#: includes/class-cbxbusinesshours-settings.php:649
+#: templates/metabox_business_hours.php:306
+msgid "Start"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:417
+#: admin/class-cbxbusinesshours-admin.php:573
+#: widgets/elementor-elements/class-cbxbusinesshours-elementor.php:198
+#: widgets/vc-element/class-cbxbusinesshours-wpbwidget.php:123
+msgid "Start of the Week"
+msgstr ""
+
+#: widgets/classic_widgets/class-cbxbusinesshour-front-widget.php:207
+#: widgets/dashboard_widgets/class-cbxbusinesshour-dashboard-widget.php:223
+msgid "Start of the Week:"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:197
+#: admin/class-cbxbusinesshours-admin.php:258
+#: includes/class-cbxbusinesshours-settings.php:655
+#: templates/metabox_business_hours.php:317
+msgid "Subject"
+msgstr ""
+
+#: includes/class-cbxbusinesshours-helper.php:328
+msgid "Sun"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:420
+#: includes/class-cbxbusinesshours-helper.php:327
+msgid "Sunday"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:826
+#, php-format
+msgid ""
+"Thanks for installing/deactivating <strong>CBX Office Opening & Business "
+"Hours</strong> V%s - <a href=\"%s\" target=\"_blank\">Codeboxr Team</a>"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:841
+#, php-format
+msgid ""
+"Thanks for upgrading <strong>CBX Office Opening & Business Hours</strong> "
+"V%s , enjoy the new features and bug fixes - <a href=\"%s\" "
+"target=\"_blank\">Codeboxr Team</a>"
+msgstr ""
+
+#: includes/class-cbxbusinesshours-helper.php:642
+msgid "The date has already passed"
+msgstr ""
+
+#: templates/admin/dashboard.php:66
+msgid "Third Party plugin Integration"
+msgstr ""
+
+#: widgets/elementor-elements/class-cbxbusinesshours-elementor.php:101
+#, php-format
+msgid "This post ID: %d"
+msgstr ""
+
+#: includes/class-cbxbusinesshours-helper.php:344
+msgid "Thu"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:424
+#: includes/class-cbxbusinesshours-helper.php:343
+msgid "Thursday"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:379
+#: admin/class-cbxbusinesshours-admin.php:557
+#: widgets/elementor-elements/class-cbxbusinesshours-elementor.php:140
+#: widgets/vc-element/class-cbxbusinesshours-wpbwidget.php:77
+msgid "Time Format"
+msgstr ""
+
+#: widgets/classic_widgets/class-cbxbusinesshour-front-widget.php:146
+#: widgets/dashboard_widgets/class-cbxbusinesshour-dashboard-widget.php:168
+msgid "Time Format:"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:543
+#: widgets/elementor-elements/class-cbxbusinesshours-elementor.php:90
+#: widgets/vc-element/class-cbxbusinesshours-wpbwidget.php:35
+msgid "Title"
+msgstr ""
+
+#: widgets/classic_widgets/class-cbxbusinesshour-front-widget.php:91
+msgid "Title:"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:545
+#: widgets/classic_widgets/class-cbxbusinesshour-front-widget.php:104
+#: widgets/elementor-elements/class-cbxbusinesshours-elementor.php:101
+#: widgets/vc-element/class-cbxbusinesshours-wpbwidget.php:44
+msgid ""
+"To display business hours from post meta put post id, if post id  is set "
+"below params will be ignored. Post ID 0 means it will display from global "
+"setting and below params."
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:403
+#: admin/class-cbxbusinesshours-admin.php:570
+#: templates/metabox_business_hours.php:164
+#: widgets/classic_widgets/class-cbxbusinesshour-front-widget.php:188
+#: widgets/dashboard_widgets/class-cbxbusinesshour-dashboard-widget.php:205
+#: widgets/elementor-elements/class-cbxbusinesshours-elementor.php:173
+#: widgets/vc-element/class-cbxbusinesshours-wpbwidget.php:105
+msgid "Today/For Current Date"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:784
+msgid "Try Pro Addon"
+msgstr ""
+
+#: includes/class-cbxbusinesshours-helper.php:336
+msgid "Tue"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:422
+#: includes/class-cbxbusinesshours-helper.php:335
+msgid "Tuesday"
+msgstr ""
+
+#: includes/class-cbxbusinesshours-helper.php:340
+msgid "Wed"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:423
+#: includes/class-cbxbusinesshours-helper.php:339
+msgid "Wednesday"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:354
+msgid "Week Days"
+msgstr ""
+
+#: templates/metabox_business_hours.php:64
+msgid "Week Days & Exceptions"
+msgstr ""
+
+#: includes/class-cbxbusinesshours-settings.php:581
+#: templates/metabox_business_hours.php:237
+msgid "Week Days(Time in 24 hour format)"
+msgstr ""
+
+#: widgets/dashboard_widgets/class-cbxbusinesshour-dashboard-widget.php:140
+msgid "Which user role can see the widget"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:203
+msgid "Window Title"
+msgstr ""
+
+#: admin/class-cbxbusinesshours-admin.php:550
+#: widgets/classic_widgets/class-cbxbusinesshour-front-widget.php:113
+#: widgets/elementor-elements/class-cbxbusinesshours-elementor.php:115
+#: widgets/vc-element/class-cbxbusinesshours-wpbwidget.php:56
+msgid "Yes"
+msgstr ""
+
+#: widgets/vc-element/class-cbxbusinesshours-wpbwidget.php:115
+msgid "yyyy-mm-dd"
+msgstr ""

@@ -1,0 +1,49 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.cbxbusinesshours_display{
+	margin-bottom: 8px;
+}
+
+.cbxbusinesshours_display_week{
+
+}
+
+.cbxbusinesshours_display_today{
+
+}
+
+.cbxbusinesshours_display_today_closed{
+	color: red;
+}
+.cbxbusinesshours_display_week_closed{
+	color: red;
+}
+
+.cbxbusinesshours_store_title{
+	font-weight: bold;
+}
+
+.cbxbusinesshours_display_before_text{
+	margin-bottom: 8px;
+}
+.cbxbusinesshours_display_before_text p,
+.editor-styles-wrapper .cbxbusinesshours_display_before_text p{
+	margin-bottom: 0px;
+}
+.cbxbusinesshours_display_after_text{
+	margin-bottom: 8px;
+}
+.cbxbusinesshours_display_after_text p,
+.editor-styles-wrapper  .cbxbusinesshours_display_after_text p{
+	margin-bottom: 0px;
+}
+
+.cbxbusinesshours_is_today{
+	font-weight: bold;
+}
+.cbxbusinesshours_is_today td, .cbxbusinesshours_is_today th{
+	font-weight: bold;
+}
